@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'M PLUS 1p', sans-serif;
+    color: #212121;
+}
+
+a {
+    text-decoration: none;
+}
+
+.all {
+    width: 80%;
+    border-radius: 10px;
+    border: 2px solid #418551;
+    height: 100vh;
+}
